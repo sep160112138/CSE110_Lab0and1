@@ -22,3 +22,10 @@ I like to:
 
 I need to complete:
 - [ ] CSE110 Lab week 0 and 1
+
+![1](screenshots/Screenshot%202022-09-29%20101316.png)
+![2](screenshots/Screenshot%202022-09-29%20101350.png)
+![3](screenshots/Screenshot%202022-09-29%20101403.png)
+![4](screenshots/Screenshot%202022-09-29%20101404.png)
+![5](screenshots/Screenshot%202022-09-29%20103826.png)
+![6](screenshots/Screenshot%202022-09-29%20103924.png)
